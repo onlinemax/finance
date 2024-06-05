@@ -1,0 +1,772 @@
+[
+    {
+      "word": "Actif",
+      "page": 43,
+      "description": "Ensembles des biens et des valeurs financières d'une personne."
+    },
+    {
+      "word": "Action",
+      "page": 81,
+      "description": "Titre de propriété d'une entreprise, échangeable sur le marché des valeurs mobilières."
+    },
+    {
+      "word": "Ancienneté",
+      "page": 104,
+      "description": "Temps passé par quelqu'un dans un emploi."
+    },
+    {
+      "word": "Assurance-emploi",
+      "page": 179,
+      "description": "Revenu d'appoint offert temporairement et à certaines conditions en cas de perte d'emploi ou dans certaines autres situations (maladie, invalidité, etc.)."
+    },
+    {
+      "word": "Avantage social",
+      "page": 100,
+      "description": "Montant ou avantage offert aux employés en plus du salaire, en vertu d'ententes préalablement conclues (assurance, régime de retraite, etc.)."
+    },
+    {
+      "word": "Avoir (ou valeur nette)",
+      "page": 43,
+      "description": "Dans un bilan, différence entre l'actif et le passif."
+    },
+    {
+      "word": "Besoin",
+      "page": 4,
+      "description": "Nécessité de base, obligation, chose essentielle à la vie"
+    },
+    {
+      "word": "Bilan",
+      "page": 43,
+      "description": "Document qui dresse un portrait de la valeur nette (avoir) d'un individu à une date donnée en calculant la différence entre son actif et son passif."
+    },
+    {
+      "word": "Budget",
+      "page": 28,
+      "description": "Document qui présente une prévision des revenus et des dépenses d'une personne pour une période donnée(un an, un mois ou une semaine)."
+    },
+    {
+      "word": "Budget déficitaire",
+      "page": 32,
+      "description": "Budget dans lequel les revenus sont moins élevés que les dépenses."
+    },
+    {
+      "word": "Budget équilibré",
+      "page": 32,
+      "description": "Budget dans lequel les dépenses sont égales aux revenus."
+    },
+    {
+      "word": "Bulletin de paie",
+      "page": 166,
+      "description": "Document que les employeurs doivent remettre à leurs employés afin de leur permettre de vérifier le calcul de leur rémunération."
+    },
+    {
+      "word": "Capital",
+      "page": 49,
+      "description": "Montant possédé ou investi par un particulier, une entreprise ou une institution finançière."
+    },
+    {
+      "word": "Carte de crédit",
+      "page": 52,
+      "description": "Carte qui autorise son détenteur à utiliser l'argent d'une institution finançière ou d'une grande entreprise pour régler un achat."
+    },
+    {
+      "word": "Caution",
+      "page": 48,
+      "description": "Personne qui s'engage par contrat à respecter les obligations d'un emprunteur dans le cas ou celui-ci ne les respecterait pas."
+    },
+    {
+      "word": "Cautionnement",
+      "page": 48,
+      "description": "Contrat dans lequel on s'engage la personne qui sert de caution"
+    },
+    {
+      "word": "Centrale syndicale",
+      "page": 158,
+      "description": "Regroupement de syndicats locaux."
+    },
+    {
+      "word": "Certificat de placement garanti ou Certificat de pauvreté garanti (CPG)",
+      "page": 79,
+      "description": "Outil d'épargne dans lequel le capital et le rendement sont garantis. Il peut être rachetable ou non rachetable."
+    },
+    {
+      "word": "Chartes canadienne des droits et libertés",
+      "page": 112,
+      "description": "Document légal qui garantit les droits et libertés d'une personne en interdisant de la discriminer en se fondant sur sa race, la couleur de peau, son sexe, son état de grossesse, son orientation sexuelle, son état civil, son âge, sa religion, ses convictions politiques, sa langue, son origine ethnique, sa condition sociale ou son handicap"
+    },
+    {
+      "word": "Charte des droits et libertés de la personne (du Québec)",
+      "page": 148,
+      "description": "Document légal qui interdit toute forme de discrimination ou de harcèlements basés sur l'âge, la condition sociale, les convictions politiques, l'état civil, la grossesse, le handicap, le sexe, l'identité ou l'expression du genre, la race, la couleur, l'origine ethnique et la religion"
+    },
+    {
+      "word": "Chômage",
+      "page": 175,
+      "description": "Situation dans laquelle se trouve une personne sans emploi qui est apte au travail, qui souhaite travailler et qui cherche activement un emploi."
+    },
+    {
+      "word": "Chômage conjucturel",
+      "page": 176,
+      "description": "Type de chômage qui dépend de l'activité économique; en période de croissance, il baisse; en période de récession, il monte."
+    },
+    {
+      "word": "Chômage frictionnel",
+      "page": 176,
+      "description": "Type de chômage causé par les pertes d'emploi occasionnelles, temporaires ou volontaires."
+    },
+    {
+      "word": "Chômage saisonnier",
+      "page": 176,
+      "description": "Type de chômage causé qui dépend des activités saisonnières de certains secteurs, comme le tourisme, l'agriculture et la pêche."
+    },
+    {
+      "word": "Chômage structurel",
+      "page": 176,
+      "description": "Type de chômage provoqué par une discordance entre la disponibilité de la main-d'oeuvre et les besoins du marché du travail (apparition ou disparition de secteurs d'activités, innovations technologiques, etc. )"
+    },
+    {
+      "word": "Commision",
+      "page": 101,
+      "description": "Prime versée aux employés en fonction du rendement"
+    },
+    {
+      "word": "Commision des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)",
+      "page": 156,
+      "description": "Organisme né en 2016 de la fusion de la Commission des normes du travail (CNT), de ;a Commission de l'équité salarial (CES) et de la Commission de la sécurité du travail(CSST). Il assure la promotion des droits et des obligations en matière de travail et en assure le respect auprès des travailleurs et des employeurs québécois."
+    },
+    {
+      "word": "Compétence",
+      "page": 103,
+      "description": "Capacité et connaissance qui permettent à des employés de bien effectuer leur travall."
+    },
+    {
+      "word": "Compte Chèque",
+      "page": 78,
+      "description": "Compte bancaire permettant d'utiliser des chèques comme moyen de paiement et d'effectuer des transactions courantes."
+    },
+    {
+      "word": "Compte d'épargne(78)",
+      "page": 78,
+      "description": "Compte bancaire dans lequel on dépose de l'argent. Il offre généralement un rendement légèrement supếrieur à celui d'un compte chèque"
+    },
+    {
+      "word": "Compte d'éparge libre d'impôts (CELI)",
+      "page": 85,
+      "description": "Placement permettant de générer des revenus à l'abri de l'import et dont les fonds restent accessible en tout temps."
+    },
+    {
+      "word": "Conciliation études-travail",
+      "page": 133,
+      "description": "Équilibre entre le temps passé au travail et celui consacré à la formation"
+    },
+    {
+      "word": "Consolidation de dettes",
+      "page": 60,
+      "description": "Solution au surendettement qui consiste à regrouper toutes les dettes en un seul emprunt afin d'en simplifier la gestion et, si possible de réduire le poids budgétaire"
+    },
+    {
+      "word": "Consommation",
+      "page": 6,
+      "description": "Utilisation d'un bien ou d'un individu ou une collectivité. Elle englobe les comportements adoptés pour la satisfaction des besoins et des désirs."
+    },
+    {
+      "word": "Consommation responsable",
+      "page": 11,
+      "description": "Mode de consommation qui tient compte du développement durable, autrement dit, qui est respectueux de l'environnement, bénéfique pour l'économie et positif pour la santé."
+    },
+    {
+      "word": "Contrat de crédit de vente variable",
+      "page": 50,
+      "description": "Contrat dans lequel le montant et la durée du prêt ne sont pas fixés d'avance. Exemples: cartes de crédit, marge de crédit."
+    },
+    {
+      "word": "Contrat de prêt d'argent",
+      "page": 50,
+      "description": "Contrat permettant d'emprunter un montant fixe pour une durée précise. Exemples: prêts personnel, prête hypotéquaire."
+    },
+    {
+      "word": "Contrat de travail",
+      "page": 101,
+      "description": "Contrat dans lequel une personne, le salarié ou la salariée, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur"
+    },
+    {
+      "word": "Contrat de vente à tempérament",
+      "page": 50,
+      "description": "Contrat dans lequel le bien acheté est donné en garantie jusqu'à son paiement complet"
+    },
+    {
+      "word": "Convention collective",
+      "page": 101,
+      "description": "Contrat de travail dont les termes ont été négociés entre un syndicats et un employeurs."
+    },
+    {
+      "word": "Coût d'opportunité (ou cout d'option)",
+      "page": 6,
+      "description": "Valeur du bien ou du service auquel on renonce pour en choisir un autre."
+    },
+    {
+      "word": "Crédit",
+      "page": 40,
+      "description": "Dette, du point de vue de la personne ou de l'entreprise prêteuse."
+    },
+    {
+      "word": "Crédit d'impôt",
+      "page": 197,
+      "description": "Montant qui permet de réduire le montant de l'impôt qu'on doit payer."
+    },
+    {
+      "word": "Crédit d'impôts non remboursable",
+      "page": 192,
+      "description": "Montant pouvant faire diminuer l'impôt payer sous la barre du zéro, donnant ainsi lieu à un remboursement."
+    },
+    {
+      "word": "Culture",
+      "page": 11,
+      "description": "Ensemble de valeurs, de connaissances, de savoir-faire, de traditions et de coutumes propres à un groupe de gens qui partagent un espace de vie commun."
+    },
+    {
+      "word": "Curriculum vitae (CV)",
+      "page": 108,
+      "description": "Document qui résume la formation, l'expérience de travail et les qualifications d'une personne."
+    },
+    {
+      "word": "Déclarations des révenus",
+      "page": 196,
+      "description": "Document produit annuellement et servant à divulguer aux gouvernements ses révenues imposables"
+    },
+    {
+      "word": "Déduction (fiscales)",
+      "page": 197,
+      "description": "Dépense qu'on peut soustraire de son revenue imposable."
+    },
+    {
+      "word": "Déficit (budgétaire)",
+      "page": 192,
+      "description": "Situation dans laquelle les dépenses excèdent les revenus."
+    },
+    {
+      "word": "Demande",
+      "page": 7,
+      "description": "Quantité de biens et de services que les consommateurs souhaitent acheter en fonction du prix."
+    },
+    {
+      "word": "Dépense",
+      "page": 29,
+      "description": "Parti du revenu utilisé pour consommer."
+    },
+    {
+      "word": "Dépense compressible",
+      "page": 31,
+      "description": "Dépense relativement facile à couper ou à réduire à court terme."
+    },
+    {
+      "word": "Dépense fixe",
+      "page": 30,
+      "description": "Dépense dont le montant est stable et qui revient régulièrement."
+    },
+    {
+      "word": "Dépense incompressible",
+      "page": 31,
+      "description": "Dépense qu'on ne peut ni éviter ni réduire à court terme."
+    },
+    {
+      "word": "Dépense variable",
+      "page": 30,
+      "description": "Dépense dont le montant et la fréquence peuvent varier"
+    },
+    {
+      "word": "Dépot à terme",
+      "page": 79,
+      "description": "Outil d'épargne offert par les institutions financières dans lequel le capital et le rendement sont garantis. Il peut être rachetable ou non rachetable."
+    },
+    {
+      "word": "Dépot volontaire",
+      "page": 61,
+      "description": "Solution au surendettement qui consiste à remettre à la Cour du Québec une partie de ses revenus afin que cette dernière les redistribue aux créanciers"
+    },
+    {
+      "word": "Désir",
+      "page": 4,
+      "description": "Souhait, envie ou chose non essentielle à la vie, mais qui fait plaisir."
+    },
+    {
+      "word": "Dette (de consommation)",
+      "page": 40,
+      "description": "Somme d'argent que l'on doit à une personne ou à une entreprise"
+    },
+    {
+      "word": "Dette (publique)",
+      "page": 192,
+      "description": "Accumulation de tous les déficits budgétaires d'un gouvernement au fil des ans."
+    },
+    {
+      "word": "Dividendes",
+      "page": 81,
+      "description": "Partie des bénéfices d'une entreprise qui sont redistribués entre tous les détenteurs d'actions."
+    },
+    {
+      "word": "Dossier de crédit",
+      "page": 46,
+      "description": "Dossier constitué par les agences d'évaluation du crédit détaillant les antécédents des particuliers en matière de crédit."
+    },
+    {
+      "word": "Endettement",
+      "page": 40,
+      "description": "Fait de devoir de l'argent à quelqu'un."
+    },
+    {
+      "word": "Épargne",
+      "page": 70,
+      "description": "Partie du revenue qu'on met de coté afin de la faire fructifié plus tard =."
+    },
+    {
+      "word": "Équité salarial",
+      "page": 150,
+      "description": "Ensemble des gestes qui ont pour but de garantir un salaire égal pour un travail, sans égard au sexe."
+    },
+    {
+      "word": "Expérience",
+      "page": 104,
+      "description": "Temps et connaissances accumulés lors de la pratique d'une activité."
+    },
+    {
+      "word": "Faillite",
+      "page": 61,
+      "description": "Solution au surendettement qui consiste à se libérer de ses dettes en remettant tous ses biens saisissables à ses créanciers."
+    },
+    {
+      "word": "Faillite",
+      "page": 61,
+      "description": "Solution au surendettement qui consiste à se libérer de ses dettes en remettant tous ses biens saisissables à ses créanciers."
+    },
+    {
+      "word": "Financement (des études)",
+      "page": 127,
+      "description": "Soutien financier pour réaliser des études, pouvant provenir des étudiants(épargne, travail, etc.), des parents, du Programme de prêts et bourses du gouvernement du Québec, etc."
+    },
+    {
+      "word": "Fiscalité",
+      "page": 189,
+      "description": "Ensemble des règles, des lois et des pratiques concernant la perception des impôts et des autres prélèvements obligatoires."
+    },
+    {
+      "word": "Fonction",
+      "page": 104,
+      "description": "Rôle exercé par les employés dans une organisation."
+    },
+    {
+      "word": "Fonds commun de placement",
+      "page": 81,
+      "description": "Outil de placement regroupant l'argent de plusieurs épargnants dans des placements diversifiés et administré par un gestionnaire professionnel."
+    },
+    {
+      "word": "Fond d'urgence",
+      "page": 70,
+      "description": "Épargne servant à faire face aux imprévus."
+    },
+    {
+      "word": "Formation",
+      "page": 96,
+      "description": "Ensemble de connaissances théoriques et pratiques pour accéder à un métier à une profession."
+    },
+    {
+      "word": "Fraude fiscale",
+      "page": 191,
+      "description": "Toute insuffisance, omission ou inexactitude dans la déclaration des revenus des contribuables. C'est un procédé illégal visant à éviter de payer de l'impôt."
+    },
+    {
+      "word": "Gain en capital",
+      "page": 79,
+      "description": "Profit réalisé lorsqu'on vend un bien( action, maison, entreprise, etc.) plus cher que le prix payé."
+    },
+    {
+      "word": "Garantie du fabricant",
+      "page": 22,
+      "description": "Garanti incluse dans le prix de vente qui couvre généralement un bien pendant un an, pièce et main-d'oeuvre."
+    },
+    {
+      "word": "Garanti légale",
+      "page": 22,
+      "description": "Garantie qui s'applique automatiquement et gratuitement à tous les biens vendus au Québec. C'est une protection minimale prévue par la loi."
+    },
+    {
+      "word": "Garanti prolongée",
+      "page": 22,
+      "description": "Garanti supplémentaire vendue aux consommateurs et servant à prolonger la durée de la garantie du fabricant."
+    },
+    {
+      "word": "Immobilier",
+      "page": 82,
+      "description": "Bien qu'on ne peut pas déplacer, comme une maison, un immeuble ou un terrain."
+    },
+    {
+      "word": "Imposition",
+      "page": 197,
+      "description": "Action de taxer ou de soumettre à un impôt, à une taxe et, par extension, le résultat de cette action."
+    },
+    {
+      "word": "Impôt (sur le revenu)",
+      "page": 196,
+      "description": "Prélèvement effectué par l'État sur le revenue des contribuables pour financer les dépenses publiques et offrir des services ( santé, éducation, transport, etc.)."
+    },
+    {
+      "word": "Inflation",
+      "page": 87,
+      "description": "Augmentation générale des prix des biens et des services mesurée, notamment, à l'aide de l'indice des prix à la consommation."
+    },
+    {
+      "word": "Intérêt",
+      "page": 49,
+      "description": "Somme versée sur un prêt ou reçue sur certains investissements."
+    },
+    {
+      "word": "Intérêt composé",
+      "page": 71,
+      "description": "Intérêts calculé à la fois sur le capital et sur les intérêts générés par l'épargne."
+    },
+    {
+      "word": "Intérêts simple",
+      "page": 71,
+      "description": "Intérêt calculé uniquement sur le capital."
+    },
+    {
+      "word": "Lettre de motivation",
+      "page": 108,
+      "description": "Document servant à démontrer la volonté d'une personne à occuper un emploi."
+    },
+    {
+      "word": "Liquidité",
+      "page": 77,
+      "description": "Caractéristique d'un placement qu'on peut transformer rapidement et facilement en argent comptant."
+    },
+    {
+      "word": "Loi de l'offre et de la demande",
+      "page": 8,
+      "description": "Modèle économique qui stipule que le prix d'un produit est celui où il y a un équilibre entre l'offre et la demande de ce produit."
+    },
+    {
+      "word": "Marché",
+      "page": 107,
+      "description": "Endroit (réel ou virtuel) où ont lieu les négociations et les échanges entre les vendeurs et les acheteurs."
+    },
+    {
+      "word": "Marché du travaIL",
+      "page": 96,
+      "description": "Endroit théorique où se rendent l'offre et l demande de travail. Deux acteur sont indissociables de ce marché: les employeurs (qui demandent le travail) et les salariés (qui offrent leur travail)."
+    },
+    {
+      "word": "Marché noir",
+      "page": 193,
+      "description": "Réseau organisé qui commercialise des produits illicites, comme des armes ou des drogues, ou encore des produits légaux, mais fortement taxés, comme l'alcool et les cigarettes."
+    },
+    {
+      "word": "Marge de crédit",
+      "page": 56,
+      "description": "Contrat de crédit variable dans lequel une institution financière met un certain montant d'argent à la disposition d'une personne pour qu'elle puisse l'emprunter au besoin."
+    },
+    {
+      "word": "Norme du travail",
+      "page": 144,
+      "description": "Règle encadrant les conditions de travail."
+    },
+    {
+      "word": "Obligation",
+      "page": 80,
+      "description": "Valeur mobilière représentant la dette d'une entreprise ou d'un gouvernement envers la personne qui la détient."
+    },
+    {
+      "word": "Offre",
+      "page": 7,
+      "description": "Quantité de biens et de services que les commerçants souhaitent vendre en fonction du prix."
+    },
+    {
+      "word": "Palier d'imposition (ou tranche de revenu imposable)",
+      "page": 198,
+      "description": "Tranche de revenue assujetti à un taux d'imposition déterminé, dans le contexte d'un impôt progessif."
+    },
+    {
+      "word": "Passif",
+      "page": 43,
+      "description": "Ensemble des dettes et des obligations financières d'une personne."
+    },
+    {
+      "word": "Pointage de crédit",
+      "page": 46,
+      "description": "Évaluation du dossier de crédit selon une échelle variant de 300 à 900 points. Plus le pointage est élevé, plus le risque qu'une personne soit insolvable est faible."
+    },
+    {
+      "word": "Pourboire",
+      "page": 101,
+      "description": "Somme d'argent volontairement donnée au personnel par un client et récompensant généralement la qualité du service rendu."
+    },
+    {
+      "word": "Pouvoir d'achat",
+      "page": 6,
+      "description": "Notion économique qui tente de mesurer la quantité de biens et de services qu'un revenu permet d'acquérir."
+    },
+    {
+      "word": "Précaire",
+      "page": 96,
+      "description": "Se dit d'un emploi qui n'offre aucune garantie de durée ou de stabilité."
+    },
+    {
+      "word": "Prêts hypothécaire",
+      "page": 51,
+      "description": "Prêt garanti par le bien qu'il finance, c'est-à-dire par une maison, une immeuble ou un terrain."
+    },
+    {
+      "word": "Prêt personnel à versements constants",
+      "page": 50,
+      "description": "Entente permettant d'emprunter uen somme et de la rembourser graduellement grâce à des versements périodiques."
+    },
+    {
+      "word": "Prêt personnel simple",
+      "page": 50,
+      "description": "Entente entre un prêteur et un emprunteur selon laquelle ce dernier emprunte une somme et s'engage à le remettre, avec les intérêts, à une date convenue."
+    },
+    {
+      "word": "Profil d'investisseur",
+      "page": 77,
+      "description": "Profil qui caractérise la tolérance au risque et les objectif financiers de différents investisseurs. On distingue généralement trois profils: prudent, modéré et audacieux."
+    },
+    {
+      "word": "Proposition de consommateur",
+      "page": 60,
+      "description": "Solution au surendettement qui consiste à offrir un arrangement à tous les créanciers afin de réduire la pression des dettes sur le budget."
+    },
+    {
+      "word": "Publicité informative",
+      "page": 12,
+      "description": "Publicité qui décrit un produit, ses caractéristiques et ses utilisations possibles."
+    },
+    {
+      "word": "Publicité persuasive",
+      "page": 12,
+      "description": "Publicité qui cherche à nous convaincre qu'un produit test meilleur, qu'un autre, qu'il peut nous rendre plus heureux, nous aider à projeter une image de réussite,etc."
+    },
+    {
+      "word": "Publicité sociétale",
+      "page": 12,
+      "description": "Publicité qui vise à sensibiliser la population à certains enjeux de la société."
+    },
+    {
+      "word": "Qualification",
+      "page": 103,
+      "description": "Valeur professionnelle des travailleurs, qui inclut leur formation, leur expérience ainsi que la nature de leur travail et de leurs responsabilités."
+    },
+    {
+      "word": "Ratio d'endettement",
+      "page": 42,
+      "description": "Rapport entre le montant des dettes à rembourser chaque mois (incluant le loyer, s'il y a lieu) et le revenu mensuel brut (avant déductions)."
+    },
+    {
+      "word": "Réaménagement budgétaire",
+      "page": 59,
+      "description": "Solution au surendettement qui consiste à réévaluer son budget en mettant sur pied un plan d'urgence pour une période donnée."
+    },
+    {
+      "word": "Régime de pension agréé (RPA)",
+      "page": 168,
+      "description": "Fond de pension auquel employeurs et employés contribuent par des versements dans une caisse de retraite."
+    },
+    {
+      "word": "Régime de rentes du Québec (RRQ)",
+      "page": 168,
+      "description": "Régime qui permet d'offrir aux travailleurs du Québec, et à leurs proches, une protection financière de base à la retraite, au décès ou en cas d'invalidité."
+    },
+    {
+      "word": "Régime enregistré d'épargne-études (REEE)",
+      "page": 85,
+      "description": "Placement permettant de générer des revenus à l'abri de l'impôt et de recevoir des subventions gouvernementales. Les revenus et les subventions sont destinés aux études des enfants."
+    },
+    {
+      "word": "Régime enregistré d'épargne-retraite (REER)",
+      "page": 85,
+      "description": "Placement permettant de générer des revenus à l'abri de l'impôt et dont les fonds sont généralement utilisés pour la retraite."
+    },
+    {
+      "word": "Régime québecois d'assurance parentale (RQAP)",
+      "page": 169,
+      "description": "Régime qui vise à soutenir financièrement les nouveaux parents en leur offrant un revenu de remplacement à leur salaire habituel."
+    },
+    {
+      "word": "Régime volontaire d'épargne-retraite (RVER)",
+      "page": 168,
+      "description": "Régime qui permet à tous les travailleurs qui n'ont pas de fonds de pension d'avoir accès à une à un régime d'épargne-retraite collectif."
+    },
+    {
+      "word": "Rémuméraiton",
+      "page": 100,
+      "description": "Ensemble des revenus et des avantages qui proviennent à la fois du salaire et des avantages sociaux."
+    },
+    {
+      "word": "Rendement",
+      "page": 76,
+      "description": "Revenu que l'argent investi peut générer. Exemples: intérêts, gain en capital, dividendes, profits."
+    },
+    {
+      "word": "Rendements (des employés)",
+      "page": 105,
+      "description": "Performance au travail, soit une mesure de l'efficacité des employés à accomplir leurs tâches."
+    },
+    {
+      "word": "Résautage",
+      "page": 113,
+      "description": "Ensemble des activités qui ont pour but de multiplier les contacts personnels ou professionnels."
+    },
+    {
+      "word": "Responsabilité",
+      "page": 104,
+      "description": "Tâche pour laquelle possèdent un pouvoir de décision, ainsi que celle pour laquelle ils doivent rendre des comptes."
+    },
+    {
+      "word": "Retenue à la source",
+      "page": 166,
+      "description": "Somme déduite du salaire pour couvrir les impôts, les cotisations et toute autre contribution à laquelle les employés souscrivent."
+    },
+    {
+      "word": "Revenu",
+      "page": 7,
+      "description": "Ensemble des montants reçus: salaire, prêt, bourse, cadeaux, etc."
+    },
+    {
+      "word": "Revenu imposable",
+      "page": 197,
+      "description": "Partie du revenu annuel sur laquelle on doit payer de l'impôt."
+    },
+    {
+      "word": "Salaire",
+      "page": 100,
+      "description": "Montant d'argent que les employeurs versent à leurs employés en échange de leur travail."
+    },
+    {
+      "word": "Salaire à la commision",
+      "page": 101,
+      "description": "Mode de rémunération qui combine généralement un salaire de base et des commissions, qui viennent bonifier les revenus totaux."
+    },
+    {
+      "word": "Salaire au pourboire",
+      "page": 101,
+      "description": "Mode dé rémunération comprenant un salaire de base, auquel s'ajoute un montant(le pourboire) remis directement par les clients."
+    },
+    {
+      "word": "Salaire fixe",
+      "page": 101,
+      "description": "Mode de rémunération au moyen d'un montant annuel prévu et, la plupart du temps, inscrit dans un contrat de travail ou une convention collective."
+    },
+    {
+      "word": "Salaire horaire",
+      "page": 100,
+      "description": "Mode de rémunération selon un taux horaire, soit un montant fixe par heure de travail."
+    },
+    {
+      "word": "Salaire minimum",
+      "page": 100,
+      "description": "Valeur minimale du salaire horaire, telle qu'elle a été fixée par un gouvernement."
+    },
+    {
+      "word": "Salaire net",
+      "page": 167,
+      "description": "Montant du salaire après le prélèvement des impôts et des autres retenues."
+    },
+    {
+      "word": "Sécurité",
+      "page": 76,
+      "description": "Dans le domaine financier, caractéristique d'un placement qui offre une bonne garantie que l'argent investi ne sera pas perdu."
+    },
+    {
+      "word": "Service essentiel",
+      "page": 157,
+      "description": "Service jugé indispensable au maintien de la santé et de la sécurité du public."
+    },
+    {
+      "word": "Société d'assurance-dépôts du Canada (SADC)",
+      "page": 79,
+      "description": "Société d'État fournissant une assurance contre la perte des dépôts assurables détenus dans les institutions financières membres."
+    },
+    {
+      "word": "Surplus (budgétaire)",
+      "page": 192,
+      "description": "Situation dans laquelle les dépenses sont inférieures aux revenus."
+    },
+    {
+      "word": "Syndicat",
+      "page": 158,
+      "description": "Regroupement de travailleurs qui s'organisent pour améliorer leurs conditions de travail."
+    },
+    {
+      "word": "Taux d'imposition",
+      "page": 197,
+      "description": "Taux fixé par une loi fiscale pour le prélèvement des impôts."
+    },
+    {
+      "word": "Taux d'intérêt",
+      "page": 49,
+      "description": "Pourcentage annuel correspon- dant aux intérêts versés sur un emprunt ou sur un placement."
+    },
+    {
+      "word": "Taux effectif d'imposition",
+      "page": 197,
+      "description": "Taux d'imposition moyen."
+    },
+    {
+      "word": "Taux marginal d'imposition",
+      "page": 197,
+      "description": "Taux d'imposition qu'on paie sur les derniers dollars gagnés au cours d'une année."
+    },
+    {
+      "word": "Taxe d'accise",
+      "page": 10,
+      "description": "Taxe touchant la consommation de certains produits, comme l'alcool, le tabac et les produits pétroliers."
+    },
+    {
+      "word": "Taxe de vente du Québec (TVQ)",
+      "page": 8,
+      "description": "Taxe provinciale perçue sur la plupart des biens et des services."
+    },
+    {
+      "word": "Taxe sur les produits et services (TPS)",
+      "page": 8,
+      "description": "Taxe fédérale perçue sur la plupart des biens et des services."
+    },
+    {
+      "word": "Tranche de revenu imposable (ou palier d'imposition)",
+      "page": 198,
+      "description": "Tranche de revenu assujettie à un taux d'imposition déterminé, dans le contexte d'un impôt progressif."
+    },
+    {
+      "word": "Travail",
+      "page": 144,
+      "description": "Ensemble d'activités humaines ayant pour but de produire un bien utile ou de procurer un service."
+    },
+    {
+      "word": "Travail à forfait",
+      "page": 100,
+      "description": "Mode de rémunération selon lequel certaines tâches spéci- fiques, souvent de courtes durées, sont rémunérées par un montant prévu dans un contrat. Travail au noir (p. 193) Toute activité de travail pour laquelle la rémunération ou une partie de la rémunération des travailleurs n'est pas déclarée au fisc."
+    },
+    {
+      "word": "Tribunal administratif du travail",
+      "page": 157,
+      "description": "Tribunal administratif du travail (p. 157) Organisme gouvernemental qui règle les conflits entre travailleurs et employeurs."
+    },
+    {
+      "word": "Valeur immobilière",
+      "page": 82,
+      "description": "Outil d'épargne désignant les investissements dans l'immobilier (maison, immeuble, terrain)."
+    },
+    {
+      "word": "Valeur mobilière",
+      "page": 79,
+      "description": "Placement qu'on peut vendre ou échanger sur un marché qu'on appelle le marché des valeurs mobilières». Exemples: obligations, actions."
+    },
+    {
+      "word": "Valeur nette (ou avoir)",
+      "page": 43,
+      "description": "Dans un bilan, différence entre l'actif et le passif."
+    },
+    {
+      "word": "Vente d'actifs",
+      "page": 60,
+      "description": "Solution au surendettement qui consiste à mettre en vente certains actifs et à utiliser l'argent ainsi obtenu pour rembourser une partie des dettes."
+    }
+  ] 
